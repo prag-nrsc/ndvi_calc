@@ -1,1 +1,1 @@
-# this contains different spectral indices computation
+# this notebook contains different spectral indices computation
